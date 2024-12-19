@@ -7,4 +7,4 @@ This directory contains quick-and-easy verification codes for the work FSL-Recti
 * Please adjust and run `python auto_experiment.py` to test the trained FSL models, which saves all results under folder `./outputs` as `.txt` files.
 
 ## Acknowledgements
-* Please note that our codes are built based on [FEAT](https://github.com/Sha-Lab/FEAT) and [FUNIT](https://github.com/NVlabs/FUNIT)`.
+* Please note that our codes are built based on [FEAT](https://github.com/Sha-Lab/FEAT) and [FUNIT](https://github.com/NVlabs/FUNIT).
